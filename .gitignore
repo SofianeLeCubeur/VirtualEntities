@@ -1,0 +1,8 @@
+.idea
+.settings
+target
+.classpath
+.project
+spigot-1.8.8-R0.1-SNAPSHOT-latest.jar
+spigot-1.9-R0.1-SNAPSHOT.jar
+spigot-1.12.2-R0.1-SNAPSHOT-b1442.jar
